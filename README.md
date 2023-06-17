@@ -16,7 +16,7 @@ A passionate and motivated Full Stack Developer having 5 years of experience wit
   Team - Platform Api-Proxy and GraphQl Gateway
   
   06/2021 - Present
-
+  
   #### Achievements/Tasks
 
   - Role: Backend Developer and SRE
@@ -32,9 +32,9 @@ A passionate and motivated Full Stack Developer having 5 years of experience wit
 ### Full Stack Developer at SAP Labs India pvt. Ltd.
 Team - GS HCM MENA
 
-05/2019 - 06/2021
+05/2019 - 06/2021 
 
-####Achievements/Tasks
+#### Achievements/Tasks
 
 - Role: Full Stack Developer
 - Responsibility:
