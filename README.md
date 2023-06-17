@@ -20,8 +20,7 @@ A passionate and motivated Full Stack Developer having 5 years of experience wit
     - Design & Implement an orchestration flow in the Api-Gateway, to connect to various endpoints and many more.
   - Tech & Tools: Java, Node.js, Springboot, Typescript, Linux, Ms- Sql GraphQl, Splunk, Docker, Kubernetes, Grafana.
 
--------
-
+---
 ### Full Stack Developer at SAP Labs India pvt. Ltd.
 Team - GS HCM MENA
 
@@ -35,8 +34,7 @@ Team - GS HCM MENA
   - Had Increased performance of our existing applications of the product by more than 40%.
 - Tech: Java, Spring Boot, REST JPA,UI5, SAP Cloud Platform, SAP Cloud Foundry.
 
---------
-
+---
 ### Scholar at SAP Labs India pvt. Ltd
 Team - GS Logistics IN – GST DCS
 
@@ -71,6 +69,8 @@ GPA: 7.65
 
 GPA: 8.82
 
+---------
+
 ## ACHIEVMENTS
 
 - #### Technical Recuriter
@@ -81,6 +81,8 @@ GPA: 8.82
 
 - #### Involvement at Company Events
   I have been participating in Company Events as an organizer, or a SPOC person for my team.
+
+---------
 
 ## INTERESTS
 - Astronomy
