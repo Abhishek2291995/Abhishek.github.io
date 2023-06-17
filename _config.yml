@@ -1,0 +1,24 @@
+# _config.yml
+
+# Site settings
+title: Abhishek Sharma
+description: Software Engineer
+
+# Theme settings
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+
+# Exclude files/folders from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - _site
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
