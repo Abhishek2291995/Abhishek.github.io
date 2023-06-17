@@ -7,19 +7,3 @@ description: Software Engineer
 
 # Theme settings
 theme: jekyll-theme-minimal
-
-# Plugins
-plugins:
-  - jekyll-feed
-
-# Exclude files/folders from build
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-  - _site
-
-# Build settings
-markdown: kramdown
-permalink: /:title/
