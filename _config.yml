@@ -5,7 +5,7 @@ title: Abhishek Sharma
 description: Software Engineer
 
 # Theme settings
-theme: minima
+theme: jekyll-theme-minimal
 
 # Plugins
 plugins:
