@@ -34,7 +34,7 @@ Team - GS HCM MENA
 
 05/2019 - 06/2021
 
-#### Achievements/Tasks
+####Achievements/Tasks
 
 - Role: Full Stack Developer
 - Responsibility:
