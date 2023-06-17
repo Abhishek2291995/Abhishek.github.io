@@ -3,8 +3,9 @@
 A passionate and motivated Full Stack Developer having 5 years of experience with the zeal to keep evolving and the ability to adapt to multiple roles. Experienced in collaborating across various teams, initiating development, and guiding colleagues along the way, looking for challenging and growing organization to apply my skills and learn as a part of the journey.
 
 
-## WORK EXPERIENCE 
+## WORK EXPERIENCE
 
+---
 ### Software Engineer 3 at Walmart Global Tech India
   Team - Platform Api-Proxy and GraphQl Gateway
   
@@ -59,15 +60,15 @@ Team - GS Logistics IN – GST DCS
 ---------
 
 ## EDUCATION
-### M.Tech in Software Engineering - BITS Pilani
-(08/2017 - 05/2019)
+- ### M.Tech in Software Engineering - BITS Pilani
+  (08/2017 - 05/2019)
 
-GPA: 7.65
+  GPA: 7.65
 
-### B.Tech in Computer Science - Guru Nanak Dev University, Amritsar
-(08/2013 - 05/2017)
+- ### B.Tech in Computer Science - Guru Nanak Dev University, Amritsar
+  (08/2013 - 05/2017)
 
-GPA: 8.82
+  GPA: 8.82
 
 ---------
 
