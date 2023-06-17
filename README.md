@@ -9,9 +9,10 @@
 -------
 
 A passionate and motivated Full Stack Developer having 5 years of experience with the zeal to keep evolving and the ability to adapt to multiple roles. Experienced in collaborating across various teams, initiating development, and guiding colleagues along the way, looking for challenging and growing organization to apply my skills and learn as a part of the journey.
-
+------
 
 ## WORK EXPERIENCE 
+
 ### Software Engineer 3 @Walmart Global Tech India
   Team - Platform Api-Proxy and GraphQl Gateway
   
